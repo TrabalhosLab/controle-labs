@@ -32,3 +32,5 @@ Maven
 
 📘 Documentação da API com Swagger:
 Interface interativa para testes e consulta dos endpoints.
+
+Slide: https://www.canva.com/design/DAG5tKo-0ms/Jrt-qiOE811sGGPaDzscYQ/edit?utm_content=DAG5tKo-0ms&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
